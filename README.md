@@ -5,7 +5,8 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![](![Kanao-910x910](https://github.com/nicolegamer123/nicolegamer123/assets/169064809/75f1e3b5-07b8-4035-945c-b4519277c7b6])
+![](![![images](https://github.com/nicolegamer123/nicolegamer123/assets/169064809/edc74777-da84-4201-a17f-8ec10da4a22b)
+])
 
 <!--
 **nicolegamer123/nicolegamer123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
