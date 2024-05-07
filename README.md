@@ -1,9 +1,9 @@
 ### ola👋
-eu to estudando no luiz castanho
+**eu to estudando no luiz castanho**
 
-Estou me desenvolvendo na linguagem JavaScript
+**Estou me desenvolvendo na linguagem JavaScript**
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+**Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos**
 
 ![]([![Kanao-910x910](https://github.com/nicolegamer123/nicolegamer123/assets/169064809/1a1296a1-c213-4225-b0a0-afcbe0622cbe)
 
